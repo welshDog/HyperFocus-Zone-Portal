@@ -4,7 +4,7 @@
 
 Building the world's first neurodivergent-first autonomous AI infrastructure platform.
 
-Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁥 · Building in public · Open source by default
+Wales 🐲 · Building in public · Open source by default
 
 ---
 
