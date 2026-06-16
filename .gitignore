@@ -1,0 +1,4 @@
+# HyperFocus Z0ne
+logs/
+.focus_session_start
+.claude/settings.local.json
