@@ -1,74 +1,64 @@
-# HyperFocus Zone Portal 🧠⚡
-
-> The official front door to the HyperFocus Zone ecosystem.
-
-Building the world's first neurodivergent-first autonomous AI infrastructure platform.
-
-Wales 🐲 · Building in public · Open source by default
-
----
-
-## What this repo is
-
-This is the entry point for humans, contributors, funders, and AI agents entering the ecosystem.
-
-Use it to:
-- Understand the ecosystem at a glance
-- Find the right repo fast
-- Read the current handover before doing anything
-- Follow the correct workflow
-- Avoid outdated docs or duplicate effort
-
----
-
-## Start here
-
-1. Read [`ECOSYSTEM_HANDOVER.md`](./ECOSYSTEM_HANDOVER.md) — full briefing
-2. Open [`PORTAL.md`](./PORTAL.md) — fast repo navigation
-3. Pick **one repo** or **one mission** only
-4. Check the local `AGENT-START.md` before changing anything
-5. Never commit secrets or `.env` files
-
----
-
-## Core repos
-
-| Repo | Purpose | Status |
-|---|---|---|
-| [HyperCode-V2.4](https://github.com/welshDog/HyperCode-V2.4) | Core backend — 48 Docker containers, agents, observability | 🟢 Active |
-| [Hyper-Vibe-Coding-Course](https://github.com/welshDog/Hyper-Vibe-Coding-Course) | Course platform — Supabase + Vercel + Web3 | 🟢 Active |
-| [HyperAgent-SDK](https://github.com/welshDog/HyperAgent-SDK) | Agent framework — npm package (@w3lshdog/hyper-agent) | 🟢 Active |
-| [showcase-web](https://github.com/welshDog/showcase-web) | Public front door and ecosystem demos | 🟢 Active |
-| [BROski-Obsidian-Brain-for-HyperFocus-z0ne](https://github.com/welshDog/BROski-Obsidian-Brain-for-HyperFocus-z0ne) | Second brain — PARA vault + GitHub bridge | 🟢 Active |
-| [BROskiPets-LLM-dNFT](https://github.com/welshDog/BROskiPets-LLM-dNFT) | Web3 NFT pet game — dNFTs + LLM | 🟡 Building |
-
----
-
-## For AI agents
-
-Start with this order — no exceptions:
-1. `ECOSYSTEM_HANDOVER.md`
-2. `PORTAL.md`
-3. Repo-level `AGENT-START.md`
-4. `WHATS_DONE.md`
-5. `CLAUDE.md` where available
-
----
-
-## Sacred rules
-
-- One mission at a time
-- Read the handover first
-- Prove changes before committing — lint → test → build → commit
-- Never commit `.env` or secrets
-- Keep docs current after every session
-
----
-
-## Mission
+# HyperFocus Zone Portal
 
 > Stop apologising for your brain. Start building.
 
+The public front door to the HyperFocus Zone ecosystem.
+This repo exists to help people understand what HyperFocus Zone is and where to go next.
+
+Built in public from South Wales.
+
 ---
 
-*Built by [@welshDog](https://github.com/welshDog) · Llanelli, South Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁥*
+## What This Repo Is
+
+Use this repo to:
+- understand the ecosystem at a glance
+- find the right public repo fast
+- open live projects and demos
+- get a clean public overview without private operator detail
+
+---
+
+## Start Here
+
+- Open [`PORTAL.md`](./PORTAL.md) for the current public map
+- Visit [`hyperfocus-constellation`](https://github.com/welshDog/hyperfocus-constellation) for the visual ecosystem explorer
+- Visit [welshdog.shop](https://welshdog.shop) for the live storefront
+
+---
+
+## Public Repos
+
+| Repo | What it does | Status |
+|---|---|---|
+| [HyperCode-V2.4](https://github.com/welshDog/HyperCode-V2.4) | Core platform: agents, observability, profile-dependent infra | Active |
+| [THE-HYPERCODE](https://github.com/welshDog/THE-HYPERCODE) | The HyperCode language | Active |
+| [Hyper-Vibe-Coding-Course](https://github.com/welshDog/Hyper-Vibe-Coding-Course) | Course platform: Supabase + Vercel + Web3 | Active |
+| [HyperAgent-SDK](https://github.com/welshDog/HyperAgent-SDK) | Agent SDK + CLI (`@w3lshdog/hyper-agent`) | Active |
+| [showcase-web](https://github.com/welshDog/showcase-web) | Public demos and ecosystem showcase | Active |
+| [BROski-Obsidian-Brain-for-HyperFocus-z0ne](https://github.com/welshDog/BROski-Obsidian-Brain-for-HyperFocus-z0ne) | Second brain vault + tooling | Active |
+| [HYPER-SILLs-By-WelshDog](https://github.com/welshDog/HYPER-SILLs-By-WelshDog) | Shared skills vault used across agents | Active |
+| [hyperfocus-constellation](https://github.com/welshDog/hyperfocus-constellation) | Interactive ecosystem map | Active |
+| [BROskiPets-LLM-dNFT](https://github.com/welshDog/BROskiPets-LLM-dNFT) | Web3 dNFT pet game + LLM experiments | Building |
+
+---
+
+## Live Builds
+
+| Project | What it is | Link |
+|---|---|---|
+| welshdog.shop | Live shop + blog + music features | [welshdog.shop](https://welshdog.shop) |
+| MIND VAULT | 3D puzzle game build | [mind-vault-hazel.vercel.app](https://mind-vault-hazel.vercel.app) |
+
+---
+
+## Contributing
+
+Want to help? Start with [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+---
+
+## Operators & Agents
+
+This repository is public navigation only.
+Operator rules and internal workflow live in the private workspace layer, not here.
