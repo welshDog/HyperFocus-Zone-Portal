@@ -1,0 +1,12 @@
+# HyperFocus Z0ne repo manifest - read by scripts/gen_repo_map.py
+# Edit this file, then re-run the generator. Never hand-edit the map.
+
+name: "HyperFocus-Zone-Portal"
+emoji: "🚪"
+tagline: "Public front door to the ecosystem"
+category: "web"
+stack: "Web"
+first_doc: "README.md"
+tier: "LIVE"
+url: ""
+notes: ""
